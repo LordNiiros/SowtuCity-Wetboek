@@ -2,29 +2,7 @@
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
 
-# **Toepasselijke APV-regels binnen SowtuCity Roleplay**
-
-
-## Strafcategorieën
-De straffen binnen onze stad zijn onderverdeeld in 9 verschillende categorieën, afhankelijk van de ernst van de overtreding:
-- Categorie 1: Waarschuwing + 100 taken.
-- Categorie 2: Taakstraf van 250 taken.
-- Categorie 3: Taakstraf van 500 taken.
-- Categorie 4: Taakstraf van 1000 taken.
-- Categorie 5: Verbanning voor 3 dagen + 500 taken.
-- Categorie 6: Verbanning voor 1 week + 500 taken.
-- Categorie 7: Verbanning voor 1 maand + 1000 taken.
-- Categorie 8: Volledige account wipe + 1000 taken.
-- Categorie 9: Permanente verbanning.
-- Categorie 10: HWID Permanente verbanning + Volledige account wipe.
- - Let op: Indien je binnen één maand drie waarschuwingen ontvangt, wordt dit opgewaardeerd naar een straf van categorie 3.
-
-## Belangrijke Opmerkingen
-- Herhaaldelijke Overtredingen: Indien je dezelfde overtreding meerdere malen begaat, zal de straf worden opgewaardeerd naar een hogere categorie.
-- Strafcategorieën met Variatie: Voor sommige overtredingen wordt een straf aangegeven in de vorm van “Categorie X t/m X”. Dit geeft de staffleden de vrijheid om, afhankelijk van de ernst van de situatie, te bepalen welke straf passend is en hoe lang deze moet duren.
-- Maatregelen door Hoofdstaff: Hoofdstaff of hoger hebben de bevoegdheid om maatregelen te nemen die zij noodzakelijk achten in het belang van meerdere burgers. Dit betekent dat zij jou kunnen verbannen zonder dat zij op dat moment een specifieke overtreding hebben waargenomen.
-- Wijzigingen en Aanvullende Sancties: Houd er rekening mee dat regels te allen tijde kunnen worden aangepast. Bovendien kunnen staffleden sancties opleggen voor situaties of onderwerpen die niet specifiek in de regels zijn opgenomen.
-- Behandeling van Staffzaken: Elk stafflid heeft de bevoegdheid om staffzaken te behandelen, met inachtneming van de regels van SowtuCity Roleplay. Een stafflid mag echter nooit zijn/haar eigen zaak behandelen of zaken behandelen die betrekking hebben op zijn/haar eigen beroep of gang, behalve als het om een Hoofdstaff-lid of hoger gaat en dit gebeurt onder toezicht van een andere hoger geplaatste. Alle staffzaken worden behandeld op basis van feiten, logs en/of het eigen perspectief van het stafflid. Het is verplicht dat elk stafflid zijn of haar eigen perspectief meeneemt in de beoordeling.
+# **APV-regels binnen SowtuCity Roleplay**
 
 
 ## **Hoofdstuk 1 – Ongewenst Gedrag en Overtredingen**
