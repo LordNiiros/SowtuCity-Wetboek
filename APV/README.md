@@ -29,23 +29,25 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor SowtuCity, wordt hierbij inge
 
 ### A3 - Strafbepaling
 
-1. De straffen zijn onderverdeeld in acht categorieën:
-    * Categorie 1: een waarschuwing + 100 uur taakstraf
-       *(max 3 waarschuwingen in 1 maand, hierna volgt de automatisch oplegging cat. 2)
+1. De straffen zijn onderverdeeld in negen categorieën:
+    * Categorie 1: een waarschuwing + 100 uur taakstraf.
 
-    * Categorie 2: een ban van 1 dag
+    * Categorie 2: een waarschuwing + 250 uur taakstraf.
 
-    * Categorie 3: een ban van 2 dagen
+    * Categorie 3: een verbanning van een dag + 500 uur taakstraf.
 
-    * Categorie 4: een ban van 3 dagen
+    * Categorie 4: een verbanning van 3 dagen + 500 uur taakstraf.
 
-    * Categorie 5: een ban van 1 week
+    * Categorie 5: een verbanning van 1 week + + 1000 uur taakstraf.
 
-    * Categorie 6: een ban van 1 maand
+    * Categorie 6: een verbanning van 1 maand + 1000 uur taakstraf.
 
-    * Categorie 7: permanente ban
+    * Categorie 7: een permanente verbanning.
 
-    * Categorie 8: account wipe
+    * Categorie 8: volledige account wipe.
+  
+    * Categorie 9: een permanente verbanning + volledige account wipe.
+    * - Let op: Indien je binnen één maand drie waarschuwingen ontvangt, wordt dit opgewaardeerd naar een straf van categorie 3.
 
 2. De straffen van categorie 5, 6 en 7 kunnen preventief worden uitgedeeld wanneer sprake is van een overtreding op heterdaad. De opgelegde straf zal naderhand besproken worden binnen superadmin+ en waar nodig worden bijgesteld. Dit om eventuele verdere schade te beperken terwijl er gekeken wordt wat er precies gebeurt is.
 3. Er kan door een stafflid gekozen worden om straffen te verhogen en/of te verlagen op basis van de context, situatie of eerdere straffen/waarschuwingen van de overtreder in kwestie. Wanneer je het niet eens bent met een oordeel van een stafflid kan je hiervoor een ticket aanmaken.
