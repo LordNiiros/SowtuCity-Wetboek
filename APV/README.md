@@ -1,593 +1,396 @@
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-
-
-# **Toepasselijke APV-regels binnen SowtuCity Roleplay**
-
-
-## Strafcategorieën
-De straffen binnen onze stad zijn onderverdeeld in 9 verschillende categorieën, afhankelijk van de ernst van de overtreding:
-- Categorie 1: Waarschuwing + 100 taken.
-- Categorie 2: Taakstraf van 250 taken.
-- Categorie 3: Taakstraf van 500 taken.
-- Categorie 4: Taakstraf van 1000 taken.
-- Categorie 5: Verbanning voor 3 dagen + 500 taken.
-- Categorie 6: Verbanning voor 1 week + 500 taken.
-- Categorie 7: Verbanning voor 1 maand + 1000 taken.
-- Categorie 8: Volledige account wipe + 1000 taken.
-- Categorie 9: Permanente verbanning.
-- Categorie 10: HWID Permanente verbanning + Volledige account wipe.
- - Let op: Indien je binnen één maand drie waarschuwingen ontvangt, wordt dit opgewaardeerd naar een straf van categorie 3.
-
-## Belangrijke Opmerkingen
-- Herhaaldelijke Overtredingen: Indien je dezelfde overtreding meerdere malen begaat, zal de straf worden opgewaardeerd naar een hogere categorie.
-- Strafcategorieën met Variatie: Voor sommige overtredingen wordt een straf aangegeven in de vorm van “Categorie X t/m X”. Dit geeft de staffleden de vrijheid om, afhankelijk van de ernst van de situatie, te bepalen welke straf passend is en hoe lang deze moet duren.
-- Maatregelen door Hoofdstaff: Hoofdstaff of hoger hebben de bevoegdheid om maatregelen te nemen die zij noodzakelijk achten in het belang van meerdere burgers. Dit betekent dat zij jou kunnen verbannen zonder dat zij op dat moment een specifieke overtreding hebben waargenomen.
-- Wijzigingen en Aanvullende Sancties: Houd er rekening mee dat regels te allen tijde kunnen worden aangepast. Bovendien kunnen staffleden sancties opleggen voor situaties of onderwerpen die niet specifiek in de regels zijn opgenomen.
-- Behandeling van Staffzaken: Elk stafflid heeft de bevoegdheid om staffzaken te behandelen, met inachtneming van de regels van SowtuCity Roleplay. Een stafflid mag echter nooit zijn/haar eigen zaak behandelen of zaken behandelen die betrekking hebben op zijn/haar eigen beroep of gang, behalve als het om een Hoofdstaff-lid of hoger gaat en dit gebeurt onder toezicht van een andere hoger geplaatste. Alle staffzaken worden behandeld op basis van feiten, logs en/of het eigen perspectief van het stafflid. Het is verplicht dat elk stafflid zijn of haar eigen perspectief meeneemt in de beoordeling.
-
-
-## **Hoofdstuk 1 – Ongewenst Gedrag en Overtredingen**
-
-
-### Artikel 1.1 - Gebruik van Cheats en Externe Software (Straf Categorie 10)
-Het is ten strengste verboden om gebruik te maken van software van derde partijen die je een oneerlijk voordeel in het spel geven. Dit omvat onder andere de volgende vormen van software:
-- Crosshairs: Gebruik van externe richtkruizen is niet toegestaan.
-- Lua Injectors of Externe Cheat Clients: Programma’s die scripts injecteren of toegang geven tot cheats.
-- Bypass Tools: Hulpmiddelen die sporen wissen, zoals USBOblivion, zijn verboden.
-- Spoofing Software: Software die je systeeminformatie vervalst of verbergt.
-- Cheat Clients/Mod Menus: Applicaties die je in staat stellen om het spel te manipuleren.
-- Graphics Packs: Het aanpassen van grafische instellingen om voordeel te behalen, zoals het verwijderen of verkleinen van bosjes, is niet toegestaan.
-- Stretched Resolution: Alleen de Aspect Ratio's 16:10 en 16:9 zijn toegestaan bij SowtuCity.
-- BetterDiscord: Het gebruik van deze tool voor meta-game doeleinden is verboden.
-- FOV-aanpassing: Het aanpassen van je Field of View (FOV) via het F8-menu is niet toegestaan.
-
-### Artikel 1.1.1 - PC-controles | Controle op Cheats
-Om de veiligheid en het speelplezier van onze spelers te waarborgen, voeren we controles uit op cheats. Dit gebeurt met behulp van Echo, een cheat-detectieproduct waarvoor we zorgvuldig de privacy-instellingen hebben geconfigureerd. We vragen altijd toestemming voordat we een Echo-scan uitvoeren bij een speler. Hoewel spelers het recht hebben om deze scan te weigeren, behouden wij ons het recht voor om spelers de toegang tot de stad te ontzeggen indien zij niet willen meewerken aan een cheat-controle.
-
-### Artikel 1.1.2 - PC-controles | Verplichte Virusscanner
-In onze stad is het verplicht om Windows Defender te gebruiken als virusscanner. Dit is niet alleen vanwege de PC-controles (zoals hierboven beschreven), maar ook omdat Windows Defender meer functies biedt dan veel gratis virusscanners, waardoor jouw pc beter beschermd is tegen externe bedreigingen.
-
-### Artikel 1.2 - Gebruik van Exploits en Bugs (Straf Categorie 5 t/m 9)
-Het misbruiken van exploits en bugs is ten strengste verboden. Indien je een exploit of bug ontdekt, dien je dit direct te melden via een ticket. Het niet melden en toch misbruik maken kan resulteren in een verbanning en/of een accountreset.
-
-Voorbeelden van verboden exploit- en buggebruik zijn onder andere:
-- Animatie Misbruik: Het oneigenlijk gebruik van animaties in scenario's.
-- Annuleren van Animaties: Het afbreken van animaties op bepaalde locaties voor oneerlijk voordeel.
-- Handelingen Tijdens Dood: Acties uitvoeren terwijl je personage dood is.
-- Relogging voor Voordeel: Het herstarten van je game om volledige gezondheid, voedsel, drinken en leven te herstellen.
-- Dupliceren van Items: Het kopiëren van items en het niet melden ervan.
-- Ongeoorloofde FOV-aanpassing: Aanpassing van jouw FOV via het F8-menu.
-- Snelle Geldverdiensten: Het vinden van manieren om snel veel geld te verdienen zonder dit te melden.
-
-### Artikel 1.3 - Gebruik van Alternatieve Accounts (Straf Categorie 8)
-Het is verboden om geld of goederen van alternatieve accounts, of die van vrienden, aan jezelf over te dragen.
-
-Voorbeelden van verboden gebruik van alternatieve accounts zijn onder andere:
-- Overdragen van Startersgeld: Het overdragen van startersgeld zonder de intentie zelf te spelen.
-- Onnodig Afwachten: Het laten verlopen van speeltijd zonder doel om daarna geld over te dragen zonder intentie om door te spelen.
-
-### Artikel 1.4 - Weggeven van Goederen bij Beëindiging van Spel (Straf Categorie 8)
-Het is niet toegestaan om je eigendommen weg te geven aan een vriend(in) als je besluit te stoppen met spelen bij SowtuCity of een lange pauze neemt. Ook het aannemen van goederen van iemand die stopt is verboden.
-
-### Artikel 1.5 - Ruilen van Goederen in het Echte Leven (Straf Categorie 8 t/m 9)
-Het verhandelen van artikelen, diensten, valuta en accounts buiten het spel om, is ten strengste verboden en kan leiden tot zware sancties.
-
-### Artikel 1.6 - Report Spam (Straf Categorie 1 t/m 2)
-Wanneer een burger hulp nodig heeft in de stad, kan hij/zij gebruikmaken van het command “/report (uitleg)”. Het is toegestaan om slechts één report per vier minuten te versturen.
-
-
-## **Hoofdstuk 2 – Ongepast Roleplay Gedrag**
-
-
-### Artikel 2.1 - FailRP (Straf Categorie 1 t/m 3)
-FailRP verwijst naar het bewust ondermijnen of slecht uitvoeren van roleplay-scenario's, evenals het weigeren om aan een scenario mee te werken.
-
-Voorbeelden van FailRP zijn onder andere:
-- Misbruik van /me-commands: Gebruik van /me voor acties die niet interactief zijn.
-- Ongegrond Voertuiggebruik: Het stelen van een voertuig of de inhoud ervan zonder geldige reden.
-- Onrechtmatig Gebruik van Overheidsvoertuigen: Het besturen van een overheidsvoertuig zonder een bijbehorende functie.
-- Praten na de Dood: Verbale communicatie terwijl je personage dood is.
-- Impersonatie van Overheidsmedewerkers: Zich voordoen als een overheidsfunctionaris met of zonder de juiste kleding.
-- Onvolledig Afmaken van Scenario’s: Het niet correct afronden van een roleplay-scenario.
-- Ongepaste Handelingen na een Ongeluk: Handelingen verrichten binnen 60 seconden na een crash boven 80 km/u of na een voertuigoverslag, zelfs als je op de wielen landt.
-- Communicatie in Water: Gebruik van elektronische communicatie (telefoon of portofoon) terwijl je in het water bent.
-- Niet Meewerken met Ambulancepersoneel: Weigeren om mee te werken na medische behandeling.
-- Blokkades: Blokkades mogen alleen worden uitgevoerd als er geen passagiers in het voertuig aanwezig zijn.
-- Auto Open Laten: Het is niet toegestaan om een voertuig zonder geldige reden open te laten.
-- Geldige redenen zijn onder andere het openbreken van een dienstvoertuig van een ambtenaar met goede Roleplay of het openlaten van een voertuig na het waarnemen van criminele activiteiten van de bestuurder.
-- Standaard Outfit: Het niet aanpassen van de standaard outfit die je krijgt bij je eerste binnenkomst in SowtuCity.
-- Opzettelijk Verstoren van Roleplay: Het bewust verstoren van roleplay van anderen, zoals:
-- Zich bemoeien als derde partij in een politieachtervolging.
-- Blokkeren van pijlen met voertuigen.
-- Het verstoren van roleplay-scenario’s.
-
-### Artikel 2.2 - Powergaming (Straf Categorie 2 t/m 4)
-Powergaming betreft het opzettelijk verkrijgen van een oneerlijk voordeel in het spel.
-
-Voorbeelden van Powergaming zijn:
-- Auto Op Slot: Het vergrendelen van je voertuig binnen 5 minuten nadat het met een snijbrander is geopend.
-- Dit geldt ook als er een wapen op je gericht staat (dit valt tevens onder Artikel 3.1 – NVOL).
-- Ongeoorloofde /me-commando's: Het uitvoeren van /me-handelingen zoals "pakt communicatie", "bindt handen vast", "plakt ductape", etc.
-- Geld Witwassen: Witgewassen geld binnen 10 minuten wegleggen, tenzij het gaat om witwassen bij een burger.
-- Vlucht in Appartement: Binnen 10 minuten na het gebruik van een vuurwapen of tijdens een achtervolging vluchten naar je appartement.
-- Officiële gangs, Politie, KMar en Recherche mogen hun poorten niet vergrendelen als ze worden gevolgd.
-- Wapen Verbergen: Ongeacht de situatie, binnen 10 minuten na het trekken van een wapen het wapen wegleggen of de stad verlaten.
-- Misbruik van Emoties: Het toepassen van emoties zoals /sleep wanneer je beschoten wordt.
-- Ongeoorloofd Vastbinden: Het vastbinden van iemand met tiewraps zonder geldige reden.
-- RDM Vermijden: Het meenemen van een speler naar het eiland om hem daar te doden met de intentie om de RDM-regel te omzeilen.
-- Gebruik van de Z-Spier: Het gebruiken van de Z-spier om ID’s te zien en spelers te vinden.
-- Ongeoorloofd Auto Vergrendelen: Het op slot zetten of openen van je auto als je dood bent.
-- Dwingen van Agenten: Het forceren van een agent om informatie uit MEOS te geven of je uit het systeem te halen.
-- Ontvoering van Off-Duty Agenten: Het ontvoeren van een politiemedewerker die niet in dienst is om hem te dwingen in dienst te komen om iemand uit de gevangenis te breken.
-
-Powergaming door Politie/KMar/Recherche/DSI:
-- Het gebruik van Discord-portofonie of de noodknop nadat je communicatie is afgenomen.
-
-### Artikel 2.3 - Impersonatie van Overheidsmedewerkers (Straf Categorie 1)
-Het is verboden om jezelf te kleden of voor te doen als een overheidsfunctionaris of stafflid, inclusief het dragen van bijbehorende kleding.
+# Algemene Plaatselijke Verordening SowtuCity
 
-### Artikel 2.4 - Verstoring op Gangterreinen (Straf Categorie 4)
-Je mag niet zonder geldige reden op het terrein van andere spelers komen, zoals:
-- Ongeoorloofd Betreden: Zomaar over muren of poorten klimmen.
-- Ongepast Gedrag: Naast ganghuizen schieten of valse meldingen maken.
-- Ongenode Bezoeken: Binnenkomen om het interieur van iemands huis te bekijken zonder uitnodiging van de gang.
-- Scenario Misbruik: Een hostage scenario starten op of voor het terrein van iemand anders.
- - Let op: Gangs kunnen hiervoor een gangstrike krijgen.
-
-Wanneer is het wel toegestaan om het terrein te betreden?
-- Tijdens een Shoot-Out: Als je in een shoot-out verwikkeld bent met een gang en een lid van die gang zijn huis binnen gaat en de deur op slot doet.
-- Achtervolging: Als je een lid van een gang achtervolgt en binnen 10 minuten na het incident het terrein betreedt, mag je hem daar rippen.
-
-### Artikel 2.5 - Metagaming (Straf Categorie 3)
-Het gebruik van informatie verkregen buiten het spel (OOC) in het spel (IC) is verboden.
-
-Voorbeelden van Metagaming zijn:
-- Schermdelen: Schermdelen in een Discord terwijl je in SowtuCity Roleplay bent.
-- Communicatie via Discord: Je moet gemute en gedeafened zijn in Discord als je in SowtuCity Roleplay bent.
-- Informatie Delen: Het versturen van in-game informatie in gang Discords wordt gezien als meta.
-- Scenario Informatie: Informatie die je buiten karakter ontvangt over een scenario mag niet worden gebruikt in het spel.
-- Streamsniping: Dit valt ook onder Metagaming en wordt zwaar bestraft.
-
-### Artikel 2.6 - Copbaiting (Straf Categorie 3)
-Het provoceren van politieagenten is niet toegestaan.
-
-Voorbeelden van Copbaiting zijn:
-- Provocerend Gedrag: Donuts draaien naast een politieauto bij een stoplicht of wheelies trekken.
-- Irritant Gedrag: Onnodig provocerend gedrag vertonen bij bank- of winkelovervallen waar je niet bij betrokken bent.
-- Roleplay Verstoring: Je bemoeien met Roleplay-scenario’s met als doel te irriteren.
-- Politie Provoceren: Herhaaldelijk politieauto’s opzoeken en provocerend gedrag vertonen of onnodige verkeersovertredingen begaan.
-- Gedrag bij Politiebureau: Provocerend gedrag vertonen voor het hek van het politiebureau.
-
-### Artikel 2.7 - Karakter Breken/OOC (Straf Categorie 1 t/m 2)
-Het is niet toegestaan om uit je rol te stappen en OOC-termen te gebruiken tijdens het spelen.
-
-Voorbeelden van Karakter Breken zijn:
-- OOC Commentaar: Uitspraken als “Ik ga dit scenario niet afmaken want je VDMT mij volop” of “Ik maak een ticket want dit mag niet”.
-- OOC Termen: Gebruik van termen zoals “VDM”, “Ticket”, “Clip”, “Staff”, “Discord”, “Vakantie”.
-
-### Artikel 2.8 - Combatloggen
-Het is verplicht om ten minste 10 minuten na een interactie in de stad te blijven voordat je de stad mag verlaten.
-
-Voorbeelden van Combatloggen zijn:
-- Verlaten van Stad: Het verlaten van de stad midden in een vuurgevecht of achtervolging.
-- Verlaten na Schieten: Na het schieten mag je pas na 30 minuten de stad verlaten.
-- Verlaten na Rip: Na een rip mag je pas na 10 minuten de stad verlaten.
-
-STRAFMAAT COMBATLOGGEN:
-- Eerste Overtreding: 3 dagen ban + 300 taken + inventory clear.
-- Tweede Overtreding: 1 week ban + 400 taken + inventory clear.
-- Derde Overtreding: 2 weken ban + 500 taken + inventory clear.
-
-### Artikel 2.9 - Geen Intentie tot Roleplay (Straf Categorie 1 t/m 9)
-Geen intentie tot roleplay betekent dat je niet in de stad bent om realistische roleplay te beleven of uit te voeren, wat het nabootsen van de echte samenleving in het spel betreft.
-
-
-## **Hoofdstuk 3 – Leven en Dromen**
-
-
-### Artikel 3.1 - NVOL (No Value of Life) (Straf Categorieën: CAT1:3, CAT2:4, CAT3:5)
-In SowtuCity Roleplay wordt van elke speler verwacht dat zij hun leven waarderen en zich niet gedragen alsof ze niets te verliezen hebben, zoals een suïcidaal persoon zou doen. Hieronder volgt een uitleg van de verschillende categorieën binnen NVOL:
-
-Categorie 1 – Geen Wapen of Vuurwapen aanwezig bij de overtredende persoon
-Dit betreft situaties waarin de persoon geen wapens bij zich heeft en toch zijn of haar leven in gevaar brengt zonder geldige reden.
-
-Voorbeelden van Categorie 1:
-- Het uitvoeren van gevaarlijke stunts zoals springen van daken.
-- Wegrennen terwijl er een wapen op je gericht is binnen de normale praatcirkel (tweede cirkel) zonder dat je een directe dreiging vormt.
- - Sanctie: Overtreding valt onder strafcategorie 4.
-
-Categorie 2 – Wapen of Vuurwapen aanwezig bij de overtredende persoon
-Dit betreft situaties waarin de persoon een wapen bij zich heeft en zijn of haar leven in gevaar brengt terwijl hij of zij wel een dreiging vormt.
-
-Voorbeelden van Categorie 2:
-- Wegrennen terwijl er een wapen op je gericht is binnen de normale praatcirkel (tweede cirkel) terwijl je een dreiging vormt.
-- Doorgaan met lopen nadat je in je benen bent geschoten en je bent overmeesterd of gehandsupt.
- - Sanctie: Overtreding valt onder strafcategorie 5.
+## Wetstechnische informatie
 
-Categorie 3 – Terugvechten terwijl je leven in gevaar is
-Dit betreft situaties waarin de persoon terugschiet of steekt op een bedreigende persoon of voertuig, terwijl er een wapen op hem of haar is gericht binnen de normale praatcirkel (tweede cirkel), of wanneer hij of zij is overmeesterd of gehandsupt.
-
-Voorbeelden van Categorie 3:
-- Terugschieten of steken terwijl er een wapen op je gericht is of terwijl je bent overmeesterd of gehandsupt.
- - Sanctie: Overtreding valt onder strafcategorie 6.
-
-### Artikel 3.2 - New Life Rule (NLR) (Straf Categorie 1 t/m 3)
-Wanneer je personage in het spel sterft of een “nachtmerrie” heeft, is het verboden om informatie te onthouden of te gebruiken die je voor je dood hebt verkregen. Dit houdt in dat je geen herinneringen mag hebben aan de gebeurtenissen voorafgaand aan je dood.
+| | |
+|---|---|
+| Overheidsorganisatie      | Hoge Raad SowtuCity |
+| Officiële naam regeling   | Algemene Plaatselijke Verordening SowtuCity|
+| Citeertitel               | Algemene Plaatselijke Verordening SowtuCity|
+| Vastgesteld door          | De Hoge Raad|
+| Onderwerp                 | Openbare orde en veiligheid|
 
-Voorbeelden van overtredingen van de NLR:
-- Het onthouden van locaties waar bepaalde gebeurtenissen hebben plaatsgevonden.
-- Het herinneren van wie je heeft gedood.
-- Het onthouden van de aanleiding en omstandigheden rondom je dood.
-- Daarnaast mag een speler niet opnieuw deelnemen aan hetzelfde scenario waarin hij of zij is overleden, en dit geldt ook voor scenario’s die zich binnen 48 uur afspelen.
- - Let op: Deze regel is met name van toepassing tijdens gang wars.
+### Opmerkingen met betrekking tot de verordening
 
+Het Wetboek van Strafrecht, specifiek bedoeld voor SowtuCity, wordt hierbij ingetrokken en vervangen door deze APV.
 
-## **Hoofdstuk 4 – Gebruik van Voertuigen**
+## Algemene Bepalingen
 
+### A1 - Reikwijdte
 
-### Artikel 4.1 - Algemene Voertuigregels (Straf Categorie 2 t/m 3)
-Het gebruik van voertuigen in SowtuCity Roleplay is vrij eenvoudig, maar er zijn enkele belangrijke regels die gevolgd moeten worden:
+1. Deze Algemene Plaatselijke Verordening (verder aangeduid als APV) is bedoeld als aanvulling op het Nederlands Recht en heeft betrekking op het eiland, de gemeente, en de stad SowtuCity.
+2. De APV biedt een indicerend kader voor eventuele bestraffing in-game (“in RP”), maar is verder bedoeld voor het afhandelen van straffen buiten de RP om.
 
-Voertuigcategorieën voor Pitten en Brake Checks
-Bij het uitvoeren van een pitmanoeuvre of brake check is het belangrijk dat het voertuig dat de actie uitvoert zich in een gelijkwaardige of lagere categorie bevindt dan het voertuig waarop de actie wordt uitgevoerd. De voertuigcategorieën zijn als volgt ingedeeld:
-- Categorie 1: Voertuigen zonder motor.
-- Categorie 2: Motorvoertuigen.
-- Categorie 3: Sportauto’s, hypercars, en personenauto’s zoals Sedans en Coupés.
-- Categorie 4: SUV’s.
-- Categorie 5: Bussen en vrachtwagens.
+### A2 - Geldigheid
 
-Voorbeelden van Verboden Voertuiggebruik:
-- Overheidsvoertuigen Stelen: Het is verboden om overheidsvoertuigen te stelen. In een scenario mag je echter een overheidsvoertuig stelen als vluchtauto, mits je een wapen bij je hebt.
-- Onverharde Wegen: Alle voertuigen mogen rijden op onverharde wegen met een maximumsnelheid van 100 km/u (geldend voor alle wegen die op de kaart staan aangegeven). Rijden is toegestaan, maar parkeren op deze wegen is niet toegestaan.
-- Pitten Boven 120 km/h: Het uitvoeren van een pitmanoeuvre bij snelheden boven 120 km/h is verboden.
-- Total Loss Beuken: Voertuigen mogen niet worden gebruikt om andere voertuigen total loss te beuken; het gaat om pitten, niet om het spelen van Rocket League.
+1. Bij veranderingen van een wetgeving na het tijdstip waarop het feit begaan is, worden de voor de verdachte meest gunstigste bepalingen toegepast.
+2. Het is voor een staff-lid niet toegestaan om mee te beslissen over een zaak die over hunzelf, vrienden en/of familie gaat. Dit om te versterken dat een zaak op een eerlijke en rechtvaardige manier behandeld wordt.
+3. Indien er tegen staff gelogen wordt en dit met hard bewijs bewezen wordt, door bijvoorbeeld logbestanden, kan er gekozen worden de straf te verzwaren.
 
-### Artikel 4.2 - Vehicle Deathmatch (VDM) (Straf Categorie 3 t/m 9)
-Het gebruiken van je voertuig als een wapen is ten strengste verboden in alle situaties.
+### A3 - Strafbepaling
 
-Voorbeelden van VDM:
-- Opzettelijk Aanrijden: Als iemand tijdens Roleplay niet voor je auto wil wijken om je te hinderen, mag je deze persoon niet aanrijden.
-- Gedeeltelijk Aanrijden: Zelfs als je iemand niet volledig doodrijdt maar deze wel raakt met je voertuig, wordt dit als VDM beschouwd.
+1. De straffen zijn onderverdeeld in negen categorieën:
+    * Categorie 1: een waarschuwing + 100 uur taakstraf.
 
-### Artikel 4.3 - Onrealistisch Rijden (GTA Style Driving) (Straf Categorie 3)
-Onder onrealistisch rijden wordt verstaan dat je je voertuig op een manier gebruikt die niet overeenkomt met realistische verkeerssituaties.
+    * Categorie 2: een waarschuwing + 250 uur taakstraf.
 
-Voorbeelden van Onrealistisch Rijden:
-- Stunt Jumps: Het nemen van stunt jumps met je voertuig.
-- Onrealistisch Offroad Rijden: Het rijden offroad op een manier die niet realistisch is voor het voertuigtype.
-- Onnodig Rammen/Beuken: Het rammen of beuken van andere voertuigen zonder geldige reden.
-- Gebruik van Obstakels: Obstakels gebruiken om ergens overheen te springen met je voertuig of vaartuig.
-- Rijden met Lekke Banden: Als je één of meerdere lekke banden hebt, mag je niet harder rijden dan 130 km/h.
-- Onverharde Wegen: Het rijden met een onroad-voertuig boven 100 km/h op een onverharde weg is niet toegestaan. Rijden is toegestaan, maar parkeren niet.
-- Rijdende Blokkades: Het uitvoeren van een rijdende blokkade is niet toegestaan.
-- Pitten van Motoren: Het is toegestaan om een motor te pitten mits er vanaf wordt geschoten, en alleen door een voertuig uit een hogere categorie.
- - Let op: De actie mag het leven van de personen op de motor niet in gevaar brengen en moet worden uitgevoerd bij snelheden onder 60 km/h.
+    * Categorie 3: een verbanning van een dag + 500 uur taakstraf.
 
-### Artikel 4.4 - Gebruik van Werkvoertuigen bij Non-Whitelisted Jobs (Straf Categorie 2)
-Voertuigen die speciaal zijn toegewezen voor werkgerelateerde taken dienen uitsluitend voor dat doel te worden gebruikt. Het is niet toegestaan om deze voertuigen zomaar door de stad te rijden of om andere spelers mee te VDM’en. Overtredingen hiervan worden bestraft onder de strafcategorie van Artikel 4.2.
+    * Categorie 4: een verbanning van 3 dagen + 500 uur taakstraf.
 
+    * Categorie 5: een verbanning van 1 week + + 1000 uur taakstraf.
 
-## **Hoofdstuk 5 – Gebruik van Wapens**
+    * Categorie 6: een verbanning van 1 maand + 1000 uur taakstraf.
 
-### Artikel 5.1 - RDM (Random Death Match) (Straf Categorie 3 t/m 9)
-In SowtuCity Roleplay is het essentieel dat je altijd een geldige reden hebt om het leven van een ander te beëindigen. Het willekeurig vermoorden van anderen zonder rechtvaardiging wordt gezien als RDM en is ten strengste verboden.
+    * Categorie 7: een permanente verbanning.
 
-Voorbeelden van RDM:
-- Zonder Roleplay: Het doden van iemand zonder voorafgaande roleplay of zonder enige intentie om aan roleplay deel te nemen.
-- Zonder Geldige Reden: Het doden van iemand zonder enige legitieme reden.
-- Doden door Commandoweigering: Het vermoorden van burgers omdat ze niet voldoen aan bevelen, zoals het uitvoeren van een onrealistisch commando.
-- Op Basis van Verdenking: Het vermoorden van burgers louter op basis van verdenking zonder concrete aanleiding.
-- Massamoord: Het plegen van een massamoord met voertuigen of wapens zonder geldige reden.
- - Let op: Provocerend gedrag (bijvoorbeeld op social media) is de verantwoordelijkheid van de provocateur en wordt niet beschouwd als een geldige reden voor RDM.
+    * Categorie 8: volledige account wipe.
+  
+    * Categorie 9: een permanente verbanning + volledige account wipe.
+       * Let op: Indien je binnen één maand drie waarschuwingen ontvangt, wordt dit opgewaardeerd naar een straf van categorie 3.
 
-### Artikel 5.2 - Wapengebruik (Straf Categorie 3)
-Het is verboden om onnodig, willekeurig of zonder controle wapens te gebruiken, zowel vuurwapens als steek- en slagwapens.
+2. De straffen van categorie 5, 6 en 7 kunnen preventief worden uitgedeeld wanneer sprake is van een overtreding op heterdaad. De opgelegde straf zal naderhand besproken worden binnen superadmin+ en waar nodig worden bijgesteld. Dit om eventuele verdere schade te beperken terwijl er gekeken wordt wat er precies gebeurt is.
+3. Er kan door een stafflid gekozen worden om straffen te verhogen en/of te verlagen op basis van de context, situatie of eerdere straffen/waarschuwingen van de overtreder in kwestie. Wanneer je het niet eens bent met een oordeel van een stafflid kan je hiervoor een ticket aanmaken.
+4. Een mondelinge waarschuwing dient in een notitie bij deze persoon aangegeven te zijn, anders is deze niet geldig.
+5. Het omzeilen van een straf zal resulteren in een permanente ban.
+6. Bans worden uitgedeeld op basis van de GTA licentie en IP-adres en geldt als zodanig voor alle gebruikers van deze kenmerken.
 
-Voorbeelden van Onjuist Wapengebruik:
-- Ongecontroleerd Schieten: Willekeurig schieten met een vuurwapen zonder geldige reden.
-- Onnodig Steken/Slaan: Willekeurig steken of slaan met een slag- of steekwapen zonder geldige reden.
-- Schieten op Banden: Je mag alleen op de banden van voertuigen schieten als de persoon in het voertuig daadwerkelijk op jou heeft geschoten, een zichtbaar wapen heeft, of jou minstens één minuut achtervolgt. Dit moet altijd met bewijs worden onderbouwd als daarom wordt gevraagd.
-- Gebruik van Wapens op het Eiland: Op het eiland mag je personen doden als je daarvoor een geldige reden hebt. Je hebt ook het recht om personen die niets met jouw zaken te maken hebben van het eiland te sturen. Als zij weigeren te vertrekken, mag je hen doden. Zonder geldige reden wordt dit echter als RDM beschouwd.
- - Let op: Als een burger zijn of haar wapen misbruikt, kan dit door een staff-lid worden ingenomen.
+    Waarschuwingen zijn 3 maanden geldig, daarna vervallen ze automatisch.
 
-Deze regel is bedoeld om bescherming te bieden aan personen die niets met het scenario te maken hebben, en om te voorkomen dat willekeurig wordt geschoten of gestoken. Wapens moeten gebruikt worden om een roleplay-scenario te starten, te verbeteren, of als ondersteunend onderdeel van de roleplay.
+## Overtredingen - Verstoring openbare orde (RP)
 
+### Artikel 1 - Algemene Roleplay Richtlijnen
 
-## **Hoofdstuk 6 – Gebruik van de Microfoon**
+1. Het is verboden om een roleplay van zeer slechte kwaliteit uit te spelen, of roleplay verstorend
+gedrag te vertonen.
+2. Het is niet toegestaan om opzettelijk de roleplay zodanig te vormen dat er een oneerlijke of
+onrealistische draai aan het verhaal gegeven wordt, of de roleplay van de andere partij zelf invullen
+door een onrealistische dwang.
+3. Het is te allen tijde verboden om je karakter te breken. Hiermee bedoelen we dat je een term
+gebruikt die gezien wordt als OOC (Out Of Character), Ook is het niet toegestaan om “/looc” foutief
+te gebruiken of te gebruiken om toxic / zoutige opmerkingen te plaatsen.
+    * Enkele voorbeelden van het foutief gebruiken van looc:
+    * /looc wat doen jullie
+    * /looc waarom rdm je
+    * /looc slechte roleplay
+4. Het is verboden om door middel van de Safe Zone te ontkomen aan illegale activiteiten en/of
+roleplays.
+5. Het is verboden om een individu schade aan te richten, te ontvoeren, uitbreken, overvallen,
+aanrijden of vermoorden in een Safe Zone, tenzij er daadwerkelijke roleplay (die aan te tonen is) aan
+gekoppeld zit.
+    * Bij overtreding van lid 1 t/m 5 zal dit resulteren in een straf volgens de 1e categorie.
+  
+6. Indien het karakter overleden is, wordt er verwacht dat hij/zij de laatste roleplay vergeten is. Het
+karakter mag ook niet naar het gebied waar hij/zij overleden is terugkeren, dit is aangeduid met een
+rode cirkel op de kaart voor 30 minuten na het overlijden. Tevens mag het karakter zich niet opnieuw bemoeien met ditzelfde scenario totdat deze afgelopen is (New life rule).
+    * Bij overtreding van lid 6 zal dit resulteren in een straf volgens de 4e categorie.
 
+7. Het onnodig mishandelen, vermoorden (RDM), uitlokken en/of anderen lastig vallen zonder
+verdere intentie tot roleplay is niet toegestaan. Dit geld ook voor dieren.
 
-### Artikel 6.1 - Verplicht Gebruik van een Microfoon (Straf Categorie 2)
-Elke inwoner is verplicht om een werkende en goed verstaanbare microfoon te hebben tijdens het spelen. Misbruik van de microfoon is strikt verboden.
+8. Hij/zij die geen waarde hecht aan het leven van het karakter dat hij/zij speelt (No Value of Life), zal
+bestraft worden. Wegrijden met een voertuig waarbij je trager als 20 km/h rijdt valt hier ook onder.
+   * Bij overtreding van lid 7 en 8 zal dit resulteren in een straf volgens de 2e categorie.
 
-Voorbeelden van Microfoonmisbruik:
-- Earrape: Het opzettelijk produceren van extreem luide geluiden om andere spelers te storen.
-- Gebruik van Soundpads: Het gebruik van soundpads om storende geluiden of ongepaste audio af te spelen tijdens het spel.
+9. Het is verboden om een erotische roleplay (ERP) uit te voeren of aan te gaan. Bij overtreding zal dit
+resulteren in een straf volgens de 7e categorie.
 
-### Artikel 6.2 - Stemherkenning (Straf Categorie 2)
-Er zijn verschillende manieren waarop een persoon herkend kan worden aan zijn of haar stem. Hier zijn de richtlijnen voor stemherkenning:
-- Stemherkenning Toegestaan: Het is toegestaan om een persoon te herkennen aan zijn of haar stem, op voorwaarde dat je die persoon daadwerkelijk kent.
-- Veranderd Stemgebruik: Als je merkt dat iemand opzettelijk zijn of haar stem probeert te veranderen om niet herkend te worden, mag je die stem niet herkennen.
-- Gebruik van Externe Software: Het is toegestaan om externe software te gebruiken om je stem te vervormen tijdens criminele activiteiten, mits dit op een normale en realistische manier gebeurt. Het gebruik van onrealistische stemvervormingen, zoals robotstemmen of babystemmen, is verboden.
+10. Het uitvoeren van een zelfmoord scenario is niet toegestaan, mits er goedkeuring voor is geweest
+vanuit staff. Bij geen goedkeuring zal dit resulteren tot een straf van categorie 8 of 200 maanden
+celstraf.
+    * Enkele voorbeelden van lid 1 en lid 2 zijn:
+    * Tijdens een achtervolging je voertuig in de garage zetten om te voorkomen dat je je voertuig kwijt raakt;
+    * Een agent ontvoeren om een signalering te verwijderen of om iets te bekijken in het politiesysteem (MEOS).
+    * Medewerkers van de overheidsdiensten dwingen om een (bewusteloos) persoon te fouilleren, items (zoals wapens) af te nemen en af te geven aan jou of iemand anders.
 
-### Artikel 6.3 - Gebruik van de Nederlandse of Engelse Taal (Straf Categorie 1)
-Alle inwoners worden geacht de Nederlandse of Engelse taal te beheersen. Het is niet toegestaan om andere talen op een provocerende of beledigende manier te gebruiken in het spel.
+11. Het zogeheten "counteren" tijdens een politie achtervolging, dus het bemoeien in een achtervolging van een ander met de politie, is niet toegestaan.
+    * Ter verduidelijking: Indien de politie tussen een onderling conflict komt welke al bezig is, is deze regel niet van toepassing.
+    * Bij overtreding van lid 11 zal dit resulteren in een straf volgens de 2e categorie.
 
-### Artikel 6.4 - Gebruik van Stemvervormers (Straf Categorie 1)
-Het gebruik van stemvervormers is toegestaan, mits er voldoende aanleiding voor is. Zorg ervoor dat je stemvervormer een realistisch en menselijk geluid behoudt en dat het gebruik ervan gerechtvaardigd is binnen de context van het spel.
+### Artikel 2 - Cheats, Exploits & Meta-gaming
 
+1. Hij/zij die gebruikmaakt van software/hulpmiddelen (cheats) van derde partijen om profijt te krijgen in het spel, wordt gestraft wordt gestraft volgens de 7e categorie.**
 
-## **Hoofdstuk 7 – Ongepast Taalgebruik**
+    **Deze regel geldt ook voor de Discord client zelf, dus gebruik van clients als BetterDiscord is niet toegestaan.
 
+2. Hij/zij die moedwillig een bug en/of exploit misbruikt om voor zichzelf of anderen profijt te behalen of in-game functionaliteiten omzeild, ongeacht in welke middelen, zal per direct gestraft worden volgens de 7e categorie.
 
-### Artikel 7.1 - Taalgebruik (Straf Categorieën: CAT1:4, CAT2:5, CAT3:6)
-Het gebruik van ongepaste taal wordt strikt bestraft in SowtuCity Roleplay. Afhankelijk van de ernst van de overtreding, kan dit leiden tot een tijdelijke verbanning.
+3. Informatie verkregen buiten het karakter om (alle informatie die niet verkregen is door jouw karakter binnen FiveM) mag niet gebruikt worden door het karakter. Bij overtreding zal gestraft worden volgens de 1e categorie.**
 
-Categorieën van Ongepast Taalgebruik
+   **Straf zal hoger kunnen zijn aan de hand van de ernst van meta plegen.
 
-Categorie 1
-- Voorbeeld: Het gebruik van ziektes als scheldwoord zonder de intentie om iemand persoonlijk te beledigen.
- - Sanctie: Overtreding valt onder strafcategorie 4.
+4. Het is niet toegestaan om externe discords te gebruiken voor roleplay gerelateerde zaken, zonder dat hier toestemming is voor gegeven vanuit staff (denk hierbij aan het gebruik van sheets en andere onderlinge zaken) hierbij geldt de straf van lid 3. Eigenaren van externe discords waarin meta-gaming voorkomt, zullen een straf ontvangen volgens de 7e categorie.
 
-Categorie 2
-Voorbeelden:
-- Het vertonen van vrouwonvriendelijk gedrag.
-- Het persoonlijk beledigen van iemand.
- - Sanctie: Overtreding valt onder strafcategorie 4.
+5. Wanneer je met meerdere mensen die op TedeaPolis spelen in een voicecall zit, is streamen niet toegestaan en moet je gedeafened en gemute zijn. Als één persoon in-game is en de rest niet en je besluit om alsnog in een call te zitten zonder dat je gedeafened/gemute bent, ben je dus ook in overtreding van deze regel die aangeduid zijn in lid 3.
 
-Categorie 3
-Voorbeelden:
-- Het maken van racistische en/of seksistische opmerkingen.
-- Het persoonlijk beledigen van iemand en daarbij diens familie betrekken.
-- Het gebruik van ziektes in persoonlijke beledigingen.
- - Sanctie: Overtreding valt onder strafcategorie 6.
- - Let op: Dit geldt ook voor beledigingen en opmerkingen in tickets.
+6. Het streamen van de main server in een discord server is nooit toegestaan, tenzij je expliciet toestemming hebt van een stafflid.
 
-### Artikel 7.2 - Haatzaaiend of Toxic Gedrag (550 taken)
-Het vertonen van haatzaaiend of toxic gedrag is niet toegestaan binnen roleplay-scenario’s, noch tegenover andere personen. Dit omvat bedreigingen en intimidaties, zowel in-game als in Discord of andere externe platforms.
-- Staffleden Respecteren: Het is ten strengste verboden om staffleden te beledigen of uit te schelden, zowel in-game als buiten het spel.
-- Afwijkende Straffen: De uiteindelijke straf kan variëren afhankelijk van de situatie en de ernst van het gedrag.
+7. Wanneer er sprake is van een ontsnapping uit het cellencomplex volgens artikel 15, moet een eventuele medeplichtige te allen tijde videobewijs kunnen overleggen waaruit blijkt dat zij de persoon in hechtenis hebben waargenomen binnen de stad, en op basis daarvan redelijkerwijs ervanuit konden gaan dat die persoon vastzat.
 
+### Artikel 3 - (Overheids) kleding
 
-## **Hoofdstuk 8 – Gebruik van Twitter**
+1. Bij het aanmaken van je personage dient je kleding veranderd te worden. Je mag niet dus niet met de starters kleding de server betreden. Verder dien je ervoor te zorgen dat je karakter er realistisch uitziet, armen bij de outfit kloppen en er geen lichaamsdelen ontbreken bij jouw personage.
+2. Er wordt geacht dat de kleding wordt gedragen die is verstrekt door de baas voor het uitvoeren van het beroep.
+3. Hij/zij die als niet ambtenaar kleding draagt van één van de overheidsbanen is verboden, tenzij er een goede roleplay aan vast zit, welke goedgekeurd is door een stafflid
+4. Officiële kleding verstrekt vanuit SowtuCity bedoeld voor specifieke groeperingen mag niet door anderen gebruikt worden of als starters kleding gekozen worden, tenzij hier een sterke roleplay aan verbonden is.
 
+   *Mocht staff dit zien zal hij/zij hierop een mondelinge waarschuwing geven om dit aan te passen, mocht dit niet gedaanw orden zal er een straf uitgedeeld worden volgens de 1e categorie.
 
-### Artikel 8.1 - Algemeen Gebruik van Twitter
-Het gebruik van Twitter binnen de stad is eenvoudig: het is niet toegestaan om te spammen op dit platform. Houd je berichten relevant en voorkom overmatig posten.
+### Artikel 4 - Combatlogging
 
-### Artikel 8.2 - Illegale Activiteiten via Twitter (Straf Categorie 3)
-Het is verboden om op social media platformen, zoals Twitter, berichten te plaatsen die betrekking hebben op illegale activiteiten, zoals wapenhandel, drugshandel of het delen van illegale locaties. Dit geldt ook voor het gebruik van codewoorden die impliceren dat dergelijke activiteiten plaatsvinden, bijvoorbeeld het gebruik van termen zoals “Gezocht: Metaal.”
- - Uitzonderingen: Dit verbod geldt niet voor het Dark Web en Messages, waar dergelijke activiteiten wel besproken mogen worden.
+1. Het is verboden tijdens een roleplay moedwillig de game verlaten zonder geldige reden. Er wordt verwacht dat je binnen 5 minuten terug bent. Doe je dit niet, zal er een straf uitgedeeld worden volgens de 5e categorie.
+2. Het is de bedoeling, als men de game wil verlaten tijdens een roleplay, ervoor te zorgen dat de mensen die deelnemen aan de roleplay hiervan op de hoogte zijn. Probeer het eerst via "/looc {uitleg}" te vermelden. Als dat niet werkt kan het via spraak vermeld worden.
 
+### Artikel 5 - Nederlandse Taal
 
-## **Hoofdstuk 9 – Scammen**
+1. Er wordt van spelers verwacht de Nederlandse of Engelse taal te beheersen. Indien iemand de Nederlandse of Engelse taal niet beheerst, is deze persoon niet welkom op de server.
+2. Andere talen dan het Nederlands en het Engels mogen niet gebruikt worden op een provocerende of beledigende manier gedurende de roleplay.
+3. Tijdens een staff- of overheids gesprek dient de persoon te allen tijde Nederlands te spreken, indien de medewerker dit wenst. Mocht de persoon de Nederlandse taal niet beheersen, dient er iemand aanwezig te zijn die namens hem in het Nederlands kan spreken.
 
+### Artikel 6 - Report gebruik
 
-### Artikel 9.1 - Verboden Praktijken bij Scammen (Straf Categorie 1 t/m 9)
-Scammen met voertuigen is absoluut niet toegestaan. Als je betrapt wordt op het scammen van voertuigen, zal dit resulteren in een accountwipe en een ban van 6 maanden.
-- Verantwoordelijkheid bij Voertuig Aankopen: Bij de aankoop van een voertuig ben je zelf verantwoordelijk voor het controleren van de aangeboden upgrades voordat je het geld overmaakt en de auto overhandigt. Dit moet worden gedaan via een officieel koopcontract, dat beschikbaar is bij de ANWB.
-- Eigen Risico bij Uitlenen: Het uitlenen van bezittingen is op eigen risico. Er zal geen refund of transfer plaatsvinden, zelfs niet als iemand gebanned is.
+1. Er wordt van mensen verwacht gebruik te maken van “/report” om overtredingen van regels te melden. Dit zodat de overtreder hiervan niet op de hoogte is en de eventuele roleplay hierdoor niet beïnvloed wordt.
+2. Het is als je een report maakt niet de bedoeling om dit in game te melden aan mensen. Wanneer dit wel gedaan wordt, kan een stafflid waarschijnlijk daardoor geen straffen uitdelen omdat de persoon zal doorhebben dat er iemand meekijkt. Ook wordt het vermelden van het aanmaken van een report gezien als FailRP (OOC gaan in RP).
+3. Het spammen van reports, het onnodig aanmaken van reports en discussiëren in reports is verboden.
 
+   *Bij overtreding zal er een straf uitgedeeld worden volgens de 1e categorie.
 
-## **Hoofdstuk 10 – Staff en Reports**
+### Artikel 7 - Alt Characters
 
+1. Het is verboden alt characters aan te maken met de intentie het start bedrag over te schrijven naar het account waar normaal op gespeeld wordt. Hiernaast is het ook verboden om meer dan 3 alt accounts aan te maken.
+2. Het is niet toegestaan om een alt character te maken om, bijvoorbeeld, criminele activiteiten te ondernemen. Wanneer een van je personages bij de overheid werkt. Indien hier toch een overtreding in gemaakt wordt zal dit resulteren in een straf volgens de 7e categorie.
+3. Hoewel alt characters toegestaan zijn, is het verboden om alt accounts te maken, of te multiboxen met alt characters. Dit zal worden bestraft met een permanente ban van alle (alt) accounts.
 
-### Artikel 10.1 - Juiste Gebruik van /Report (Straf Categorie 1 t/m 2)
-Wanneer een burger hulp nodig heeft in de stad, kan de /report-functie gebruikt worden met de volgende richtlijnen:
-- Maximaal Eén Report per Vier Minuten: Het is toegestaan om slechts één report per vier minuten te versturen.
-- Duidelijke Omschrijving: Zorg ervoor dat je report duidelijk en goed verwoord is.
-- Geen Reports voor Specifieke Overtredingen: Voor overtredingen zoals RDM, VDM, metagaming en combatloggen, dien je een ticket aan te maken in de support Discord van SowtuCity. Wees hierbij zo volledig mogelijk.
-- Spam: Meer dan drie reports binnen één minuut verzenden, wordt beschouwd als spammen.
+### Artikel 8 - Voertuig handelaar / Voertuig meetings
 
-### Artikel 10.2A - Eerlijkheid ten opzichte van Staff (Straf Categorie 9)
-Het is ten strengste verboden om te liegen tegen staffleden. Het achterhouden van informatie wordt eveneens als een overtreding beschouwd. Wanneer een stafflid je een vraag stelt, wordt verwacht dat je de volledige waarheid vertelt.
+1. Een voertuig handelaar mag enkel uitgevoerd worden wanneer hiervoor goedkeuring is vanuit justitie.
+2. Een voertuig handelaar mag:
+    * Maximaal 10 voertuigen in hun “showroom” zetten.
+    * Zich enkel vestigen op een door justitie aangewezen locatie.
+    * Dient officiële vergunningen te hebben, ondertekend door een lid van justitie, waarin de locatie vermeld staat.
+3. Bij voertuig meetings mogen maximaal 20 voertuigen aanwezig zijn.
 
-### Artikel 10.2B - Voordoen als Staff (Straf Categorie 1 t/m 3)
-Het is verboden om jezelf voor te doen als een stafflid of om uitspraken te doen die de indruk wekken dat je een stafflid bent.
+   *Bij overtreding zal de KvK op de hoogte gesteld worden en gestraft worden volgens de 1e categorie.
 
-### Artikel 10.2C - PM Sturen naar Staffleden (Straf Categorie 4)
-Het is verboden om zonder toestemming een privébericht (PM) te sturen naar een stafflid over staffzaken.
+### Artikel 9 - Gebruik van voertuigen
 
-### Artikel 10.3 - Staff Abuse (Straf Categorie 9)
-Het is ten strengste verboden voor staffleden om hun positie te misbruiken voor persoonlijke voordelen of andere oneerlijke praktijken.
+1. Je mag als burger geen overheidsvoertuigen besturen, tenzij er in de roleplay een goede reden voor is of wanneer er toestemming is gegeven door een stafflid.
+2. Er wordt geacht van mensen geen gebruik te maken van baan voertuigen voor illegale bezigheden, tenzij hier goedkeuring voor is gegeven vanuit een stafflid voor een roleplay scenario.
+3. Het is niet toegestaan met voertuigen gebouwen te betreden die daar niet voor bedoeld zijn.
+4. Het is niet toegestaan om jouw voertuig als wapen te gebruiken (VDM). Bij overtreding zal dit resulteren in een straf volgens de 2e categorie.
+5. Een pit dient realistisch te zijn en onder of rond de 125 km/h.
 
-Voorbeelden van Staff Abuse:
-- Shownames Manipuleren: Het spelen met shownames om anderen te misleiden.
-- Ongeoorloofd Delen van Informatie: Het delen van interne informatie of loggegevens met burgers.
-- Misbruik van Permissies: Het gebruik van staffpermissies voor eigen roleplay-ervaringen.
-- Onrechtmatige Refunds: Het geven van refunds zonder legitieme reden.
-- Ongeoorloofde Unbans: Het unbannen van spelers die niet zouden moeten worden vrijgelaten.
-- Behandelen van Eigen Scenario’s: Het behandelen van staffzaken waarin ze zelf betrokken zijn.
+   *Indien een overtreding gemaakt wordt van lid 1 t/m 3 zal dit resulteren in een straf van de 1e categorie.
 
+### Artikel 10 - Belediging
 
-## **Hoofdstuk 11 – Onderwereld**
+1. Persoon die scheldt met hedendaags relevante ziektes, racistische opmerkingen, of andere ongepaste opmerkingen, wordt bestraft door middel van een ban volgens de 7e categorie. Dit is ook van kracht op steam-, discord- en karakternaam.
+2. Het is tevens niet toegestaan om in de SowtuCity erkende platformen toxic, uitlokkend, haatzaaiend of opruiend gedrag te vertonen.
+3. Op lid 1 geldt een uitzondering voor het schelden met hedendaagse relevante ziektes, bij de eerste keer zal dat bestraft worden doormiddel van een ban van twee weken. Bij de tweede keer zal hij/zij bestraft worden met 3 maanden ban, en derde keer zal het een permanente verbanning zijn.
 
+### Artikel 11 - Overvallen & Oplichten
 
-### Artikel 11.1 - Basisregels van de Onderwereld (Straf Categorie 1 t/m 9)
-De onderwereld van SowtuCity Roleplay kent strikte regels om de balans tussen criminaliteit en roleplay te behouden. Hier zijn de belangrijkste regels:
-- Tijdslimiet voor Handsuppen/Rippen: Het is niet toegestaan om dezelfde persoon binnen 30 minuten opnieuw te handsuppen of te rippen.
-- Dood is Dood: Als je bent overleden, kun je niet deelnemen aan wraakacties of informatie verstrekken. Dit geldt voor gangwars en hunt-sessies, en je mag na je dood niet opnieuw deelnemen aan dezelfde situatie.
-- Niet Doden na Rippen: Als je iemand hebt geript, mag je deze persoon niet vermoorden.
-- Refundregels bij Ongehoorzaamheid: Als je iemand doodschiet omdat hij niet meewerkt, wordt je refund afgekeurd.
-- Fysieke Aanwezigheid Vereist: Bij het overvallen van iemand voor zijn/haar wapen moet dit fysiek zichtbaar zijn. Callouts zijn alleen geldig met videobewijs.
-- Maximale Aantal Leden: Het is verboden om de limiet van 23 leden + 2 hangarounds in een groepering te overschrijden. Overtreding kan leiden tot verlies van de "Officieel" status.
-- Geen Bankgeld Overvallen: Het is niet toegestaan om burgers te beroven van hun bankgeld.
-- Specifieke Overvalregels: Je mag alleen drugsverkopers, witwassers of quicksellers overvallen als je hen fysiek ziet kloppen of er videobewijs is.
-- Strikte Regels voor Wapenovervallen: Overvallen voor wapens mogen alleen plaatsvinden als het wapen fysiek zichtbaar is. Het gebruik van codewoorden of het omzeilen van regels door neppe meldingen of setups is verboden.
-- Aanvullende Regels:
-- Het is niet toegestaan om een voertuig in de garage te zetten, van kleding te wisselen, of je appartement in te vluchten tijdens een achtervolging totdat je de achtervolgers hebt afgeschud.
-- Criminele activiteiten in appartementen zijn verboden. Dit omvat oplichting, drugshandel, moord, ontvoering, en wapenhandel.
-- Het is niet toegestaan om binnen 10 minuten na een shootout of achtervolging je gangterrein te betreden.
-- Het is verboden om derde partijen te betrekken in achtervolgingen of scenario’s wanneer de politie betrokken is.
+1. Het overvallen of oplichten van mensen is verboden, dit mag alleen wanneer een persoon bezig is met criminele activiteiten.
+2. Uitzondering op lid 1 geldt voor alle soorten wapens; deze mogen altijd overvallen worden.
+3. Met betrekking tot de volgende situaties is overvallen of oplichten niet toegestaan:
+    * Het stelen/overvallen van bankgeld
+    * Loodsen (Artikel 21 - Loodsen)
+    * Spelers te overvallen, te ontvoeren of negatief te bejegenen bij safezones
+    * Facturen en/of andere items welke gerelateerd aan een baan zijn
+    * Overheids voorwerpen
+    * Onder dwang iemand zijn huis betreden en dan leegroven
+    * Voertuigen
+    * Nieuwe spelers
+4. Voertuigen kunnen ook niet meer gebruikt worden bij illegale deals en kunnen enkel met legaal geld gekocht worden.
+5. Het is de verantwoordelijkheid van de kopende partij om te controleren of de aangeboden aanpassingen (ook wel bekend als tunes) op het voertuig aanwezig zijn ten tijde van overdracht van het voertuig in een modshop.
+6. Het counteren van een overval en/of gijzeling is niet toegestaan van zodra politie en/of KMAR ter plaatse is.
+7. Uitzondering op lid 6 is wanneer persoon een ongeplande gijzeling start, terwijl je hiervoor in scenario zat met desbetreffende crimineel. Je mag de crimineel dan counteren op het moment dat hij de politie en/of KMAR kwijtgeraakt is uit een achtervolging. Denk hierbij aan een straatgijzeling van de politie en/of burgers.
+8. Het oplichten van een persoon, verkopen en inkopen van wapens, verkopen en inkopen van drugs, vermoorden of ontvoeren van een persoon en het gebruiken van een wapen zijn in een appartement verboden.
 
-### Artikel 11.1A - Criminele Organisaties (Straf Categorie – Onderwereld Coördinatoren bepalen)
-Criminele organisaties zijn gebonden aan strikte regels:
-- Ledenlimiet: Een gang mag maximaal 23 leden en 2 hangarounds hebben. Het aantal leden wordt periodiek geëvalueerd en kan veranderen op basis van de ontwikkelingen binnen de stad.
-- Samenwerken: Het samenwerken met burgers buiten je gang is alleen toegestaan met goedkeuring van de onderwereld coördinatoren van SowtuCity. Een uitzondering wordt gemaakt voor de handel in goederen zoals drugs en wapens.
+   *Bij overtreding zal er gestraft worden volgens de 1e categorie.
 
-### Artikel 11.1B - Gang Wars (Straf Categorie – Onderwereld Coördinatoren bepalen)
-Gang wars zijn gebonden aan de volgende regels:
-- Initiatie: Alleen leiders van criminele groeperingen (Gang Bazen) kunnen een oorlog tussen twee gangs verklaren.
-- Levens: Elke deelnemer aan een gang war heeft slechts één leven. Zodra je dood bent, mag je niet meer deelnemen aan de oorlog.
-- Kills door Politie: Doden door politie tellen mee in de gang war, aangezien dit binnen hetzelfde tijdsbestek gebeurt.
-- Beëindiging: Een gang war eindigt als deze langer dan 48 uur duurt, als een van de gangs zich overgeeft, of als alle leden van een gang hun leven hebben verloren.
+9. Als je iemand hebt overvallen of opgelicht, mag je die persoon niet afmaken, zelfs niet om de daad te laten vergeten
 
-### Artikel 11.1C - Wraakacties (Straf Categorie – Onderwereld Coördinatoren bepalen)
-Wraakacties zijn alleen toegestaan als er voldoende roleplay bewijs is verzameld:
-- Whitelisted Jobs: Het uitvoeren van wraakacties tegen whitelisted jobs is verboden.
-- Bewijs: Er moet roleplay bewijs zijn verzameld om een wraakactie te rechtvaardigen.
-- Tijdslimiet: Wraakacties moeten binnen een week worden uitgevoerd.
+   *Bij overtreding zal er gestraft conform de gebruikelijke sancties voor RDM.
 
-### Artikel 11.2 - Fouilleren (Straf Categorie 3)
-De regels voor fouilleren zijn als volgt:
-- Wapen Verplicht: Je kunt alleen mensen fouilleren als je in het bezit bent van een wapen.
-- Visueel Beeld Vereist: Bij het rippen van drugs, geld of wapens moet je visueel beeld hebben van de persoon, tenzij de persoon een holster, kogelwerend vest of gezichtsbedekkende kleding draagt.
+### Artikel 12 - Gedrag van Ambtenaren
 
-### Artikel 11.3 - Het Rippen van Wapens & Drugs (Straf Categorie 3 t/m 4)
-Er zijn specifieke regels voor het rippen van wapens en drugs:
-- Wapen Rippen: Je kunt wapens van elk kaliber rippen, maar slag- en steekwapens mogen alleen andere slag- en steekwapens rippen.
-- Regels voor Overvallen: Overvallen mogen alleen plaatsvinden als de persoon aantoonbaar met onderwereldactiviteiten bezig is. Dit kan blijken uit kleding zoals gezichtsbedekkende kleding, een holster of een kogelwerend vest, of door handelingen zoals drugsverwerking of het dragen van een wapen.
+*Onder ambtenaar wordt verstaan de spelers die één van de volgende instanties uitvoert, deze zijn weergegeven in het F10 menu:*
 
-### Artikel 11.4 - Overvallen (Straf Categorie 2 t/m 3)
-Regels voor overvallen in SowtuCity:
-- Hostages: Gegijzelden mogen nooit een vriend of bekende zijn. Overvallen mogen niet binnen een uur voor een server herstart plaatsvinden.
-- Counteren: Zodra de politie aanwezig is bij een overval, mag je niet meer counteren of betrokken blijven bij een achtervolging.
+* *Politie*
+* *Koninklijke marechaussee*
+* *Justitie*
+* *Ambulance*
+* *ANWB*
+* *Taxi*
+* *Brandweer*
 
-### Artikel 11.5 - Criminele Activiteiten tegen Overheidsmedewerkers (Straf Categorie 3)
-Overheidsmedewerkers werken om de stad veilig te houden en zijn er om alle burgers te helpen. Daarom gelden er strikte regels voor criminele activiteiten tegen hen:
-- Verboden Ontvoeringen: Het ontvoeren of doden van een ANWB-medewerker, ambulance-medewerker of taxi-medewerker in dienst is ten strengste verboden.
-- Blokkeren van Werkzaamheden: Het opzettelijk blokkeren van overheidsmedewerkers waardoor zij hun werk niet kunnen uitvoeren, is verboden.
-- Stelen van Overheidsvoertuigen: Het stelen en besturen van overheidsvoertuigen is verboden, tenzij je gewapend bent en dit onderdeel is van een scenario.
+1. Voor een ambtenaar is het niet toegestaan zich bezig te houden met illegale bezigheden.
+2. Het is niet toegestaan om door de politie in beslag genomen objecten door te handelen naar spelers. Ditzelfde is ook van toepassing op alle andere overheidsobjecten en op informatie die de (ex-)medewerker heeft verkregen tijdens zijn carrière bij de desbetreffende overheidsdienst. Dit geldt ook nadat de desbetreffende persoon ontslag heeft genomen of ontslagen is.
+3. Op lid 3 geldt een uitzondering voor medewerkers van de politie of koninklijke marechaussee met een speciale vergunning. Deze leden mogen wel hun wapens buiten dienst behouden.
 
-### Artikel 11.6 - Oplichting (Straf Categorie 4)
-Oplichting is verboden in de volgende gevallen:
-- Bankgeld: Het stelen of overvallen van bankgeld.
-- Baan Gerelateerde Voorwerpen: Het stelen van baan gerelateerde voorwerpen.
-- Overheidsvoorwerpen: Het stelen van overheidsvoorwerpen.
-- Autohandel: Oplichting met autohandel is verboden, en scammen met voertuigen resulteert in een ban van 6 maanden en een volledige account wipe.
+   *Bij overtreding van lid 1 en/of 2 zal gestraft worden volgens de 6e categorie.
 
+### Artikel 13 - Gedrag tegen overheidsmedewerkers
 
-## **Hoofdstuk 12 – Het Eiland**
+1. Meldingen naar een overheidsinstantie dienen te allen tijde realistisch en uitgebreid te zijn. Het is hierbij ook niet toegestaan om een valse melding te maken.
+2. Roleplay met de ANWB, Brandweer en Ambulance moet uitgebreid en realistisch zijn. Ook dien je mee te werken met de roleplay en mag je de medewerkers niet forceren om voertuigen te repareren of spelers te reviven. De medewerkers zijn te allen tijde leidend in hun roleplay.
+3. Het is niet toegestaan om een melding te maken naar een overheidsinstantie met de intentie om degene die hierop reageert te vermoorden, te ontvoeren of met als doel om deze te gaan overvallen.
+4. Er moeten ten allen tijden vijf overheidsmedewerkers binnen een baan beschikbaar blijven nadat er één ontvoerd is, dus als er 6 agenten aanwezig zijn mag er 1 ontvoerd worden, als er 5 aanwezig zijn mag er geen ontvoerd worden.
+5. Een uitzondering op lid 4 geldt voor de ambulance & brandweer. Hierbij moeten er te allen tijde 7 medewerkers beschikbaar blijven. Kortom, als er 8 ambulance of brandweer medewerkers aanwezig zijn, dan mag er 1 à 2 ontvoerd worden.
+6. Het is toegestaan om een agent te ontvoeren zodat je jouw voertuig uit de opslag kan halen, hiervoor dien je wel het bedrag af te lossen die hiervoor openstaat. Hierbij ontneem je wel het recht op een advocaat en/of hOVJ. Het is verboden om tussen 00:00 en 10:00 een voertuig uit de opslag te forceren.
+7. Een officiële criminele organisatie heeft de mogelijkheid om een ambulancier te ontvoeren vanaf 4
+ambulanciers in dienst, hierbij zal er wel een goede roleplay aan vast moeten zitten in plaats van een
+run and gun. Tevens mag dit alleen gedaan worden bij eigen vrienden of gangleden en dus niet bij personen welke niks met jou te maken hebben. De ambulance is in deze roleplay nogsteeds leidend omtrent gezondheid van de bewusteloze persoon. Indien persoon dit niet kan overleven, kan de ambulancier er voor kiezen om deze dood te moeten verklaren.
+   * Mocht hier toch gezien worden dat er geen roleplay aan verbonden wordt zoals enkel
+een melding maken en de ambulancier snel te laten werken zodat het wapen direct weg kan, of een van de andere eisen verbroken wordt zal er bestraft worden volgens de 5e categorie en bij herhaling volgens de 6e categorie of hoger.
 
+### Artikel 14 - Roleplay & Ledenaantal Criminele Organisaties
 
-### Artikel 12.1 - Rippen op het Eiland (Straf Categorie 1 t/m 9)
-Het eiland is een gewelddadige en gevaarlijke omgeving met minimale regels. De regels voor het rippen op het eiland zijn als volgt:
-- Vrije Roof: Op het eiland is het toegestaan om alle goederen die verband houden met de onderwereld te rippen, zelfs zonder deze fysiek gezien te hebben.
-- Wapen Ripping: Elk wapen mag elk ander wapen rippen, exclusief op het eiland. Na een succesvolle roof mag de dader de beroofde persoon doden.
+1. Onder "criminele organisaties" vallen alle officiële groepen gevestigd in SowtuCity.
+2. Criminele organisaties mogen een maximaal ledenaantal van 25 personen hebben. Hierin is een vrije keuze voor het aantal leden met de "hangaround" rang.
+3. Een voorwaarde voor het samenwerken tussen criminele organisaties, is dat er geen volledige samenwerking tussen alle organisaties ontstaat en dat dit niet gebeurt tijdens het witwassen van geld.
+4. Bij een samenwerking mogen er maximaal 2 gangs met een limiet van 20 man samenwerken. Alleen personen met een rang van de (officiële groep) criminele organisatie kunnen in dit geval meedoen.
+5. Bij een zogeheten "politie inval" is het toegestaan voor de gangs om met maximaal 2 groepen en 25 man samen te mogen werken. Hier mogen dus 5 personen meer bij aanwezig zijn.
+6. Wanneer officiële organisaties een samenwerking aangaan met een andere officiële organisatie dan dient dit gemeld te worden volgens het format in het daarvoor aangemaakte kanaal in de SowtuCity Discord.
+7. Wanneer de leden in een server supported organisatie zodanig opvallen op een negatieve manier (denk aan meerdere malen combat gedrag in plaats van roleplay, teveel warnings, etc.), zal superadmin+ beslissen over een gepaste straf jegens deze organisatie. Bij criminele organisaties kan dit zelfs leiden tot een volledige opschorting van de groep.
 
-### Artikel 12.2 - RDM op het Eiland (Straf Categorie 1 t/m 5)
-Toegestane Moorden: Op het eiland is het toegestaan personen te vermoorden indien er een geldige reden voor is. Dit geldt ook voor het wegsturen van personen die geen zaken met jou doen. Als zij weigeren het eiland te verlaten, mag je hen doden. Indien er geen geldige reden is voor de moord, wordt dit beschouwd als RDM (Random Death Match).
+### Artikel 15 - Ontsnappen uit het cellencomplex
 
-### Artikel 12.3 - Samenwerking tussen Criminele Organisaties (Straf Categorie 1 t/m 5)
-Verbod op Samenwerking: Zowel officiële als onofficiële groeperingen mogen op het eiland niet samenwerken. Dit houdt in dat elke organisatie op zichzelf moet opereren zonder hulp van andere groepen.
+1. Het is toegestaan om te ontsnappen uit het cellencomplex, echter dient hier een geldig roleplay scenario aan gekoppeld te worden. Dit is ter beoordeling aan een stafflid.
+2. Het is niet toegestaan om te ontsnappen of jezelf uit te laten breken indien er is afgesproken om het roleplay scenario op een later tijdstip voort te zetten, bijvoorbeeld vanwege tijdgebrek of andere beperkingen.
+3. Het is verboden om tussen 01:30 en 10:00 uit het cellencomplex te breken.
+4. Er moet ten allen tijden 10+ politie beschikbaar zijn, als er 6 - 10 politie aanwezig zijn mag je niet ontsnappen.
 
-### Artikel 12.4 - Landen van Helikopters en Vliegtuigen (Straf Categorie 3)
-Veilig Landen: Het landen van helikopters en vliegtuigen is toegestaan, mits dit op een veilige en verantwoorde manier gebeurt, in lijn met de regels van de vliegschool.
-Landingslocatie: De locatie moet vrij zijn van hinderlijke objecten zoals hoogspanningskabels, daken en lantaarnpalen. Het landen op een weg is verboden, behalve voor helikopters.
-Veilig Vliegruim: Er mag geen ander vliegtuig of helikopter binnen een straal van 100 meter in de buurt zijn tijdens het landen.
-Voertuigafstand: Als je uit je voertuig springt om te parachuteren, moet dit boven zee gebeuren.
+   *Bij overtreding zal gestraft worden volgens de 1e categorie.
 
-### Artikel 12.5 - KMAR/Politie Acties op het Eiland (Straf Categorie – Hulpdienst Coördinatoren bepalen)
-DSI Operaties: De Dienst Speciale Interventies (DSI) mag speciale operaties uitvoeren op het eiland, mits er voldoende aanleiding voor is. Deze operaties mogen alleen plaatsvinden met goedkeuring van de Korpschef, en er mag maximaal twee keer per dag goedkeuring worden gegeven.
+### Artikel 16 - Witwassen, Winkel- en bankovervallen & overige criminaliteit
 
+1. Witwassers overvallen is toegestaan wanneer minimaal één van onderstaande punten van toepassing is.
+    * Hij/zij gezichtsbedekking of beschermende kleding zoals een body armor draagt.
+    * Het kenteken van een voertuig dat overeenkomt met het kenteken dat is verstuurd in het deepweb kanaal dat hiervoor bestemd is en niet ouder is dan 1 uur.
+    * Een persoon verdachte handelingen doet bij een afleverpunt die niet passen bij de baan die de persoon op dat moment uitvoert.
+2. Witwassen mag enkel in de voertuigen die je krijgt van het depot of een persoonlijk voertuig dat van het soort gelijkend model is.
+3. De overvaller dient op het moment van overvallen beelden te kunnen overhandigen aan de staffleden. Mocht dit niet mogelijk zijn zal het direct teruggedraait worden en zal er een straf komen van de 1e categorie.
+4. Het campen of opwachten op witwas locaties en het depot is verboden.
+5. Een gijzelaar mag geen kennis of vriend van je zijn, maar moet een onbekend persoon zijn.
+6. Probeer op alle mogelijke manieren een vuurgevecht te vermijden en onderhandel eerst met de politie.
+7. Een liquidatie mag niet uitgevoerd worden zonder dat het slachtoffer op de hoogte is van de reden hierachter. Er dient dus aan het slachtoffer duidelijk gemaakt te worden, terwijl hij/zij nog leeft, waarom diegene geliquideerd wordt.
+8. Het campen op een niet actieve drugs locatie is niet toegestaan, zowel op land als op het eiland.
 
-## **Hoofdstuk 13 – Bovenwereld**
+   *Bij overtredingen zal er gestraft worden volgens de 1e categorie.
 
+### Artikel 17 - Officiële gang regels
 
-### Artikel 13.1 - Basisregels voor Overheidsdiensten (Straf Categorie 1 t/m 9)
-Elke overheidsdienst in SowtuCity Roleplay heeft zijn eigen set basisregels. Als er iets gebeurt wat echt niet door de beugel kan, neem dan contact op met een leidinggevende binnen de betreffende dienst. Alle overheidsmedewerkers moeten zich houden aan de APV-regels, en corruptie wordt streng bestraft.
+1. Het is verboden om nepmeldingen te maken in de omgeving van een gang huis met de intentie tot uitlokken van de criminelen of het in de problemen werken van de rivaliserende groep.
+   * Hieronder valt ook het expres uitvoeren van andere illegale praktijken (zoals schieten met vuurwapens) onder.
+2. Het in beslag nemen van een voertuig door een officiële gang hoort met goede of langdurige roleplay te gebeuren, en niet met de intentie om geld te verdienen.
+3. Wanneer er twee weken lang geen roleplay aan de inbeslagname gebonden wordt, is het toegestaan om het voertuig weer gratis uit de garage te halen.
+4. Het confisqueren van items, wapens en geld van een speler is alleen toegestaan als hier een roleplay aan is verbonden. Het confisqueren van overheids objecten is niet toegestaan.
 
-### Artikel 13.2 - Corruptie (Straf Categorie 1 t/m 9)
-Corruptie wordt gedefinieerd als elke vorm van misbruik van overheidsposities voor persoonlijke of criminele doeleinden. Enkele vormen van corruptie zijn:
-- Betaalde Voorkeur: Het betalen of aannemen van geld om als Ambulancier, Politie, KMAR of ANWB-medewerker sneller op een melding te reageren, leidt tot een sanctie.
-- Money Farming: Het illegaal verdienen van geld bij een overheidsbaan.
-- Criminele Zaken tijdens Dienst: Het deelnemen aan criminele activiteiten terwijl je in dienst bent bij een overheidsbaan, of het vervoeren van criminelen in je voertuig, is verboden.
-- Hanggedrag op Gangterrein: Het is verboden om zonder geldige reden op gangterrein rond te hangen, zowel in- als uitdienst. Je mag echter wel meldingen afhandelen op deze locaties.
-- Verduistering van Overheidsmiddelen: Het verduisteren van items of geld als politie of KMAR, of het doorspelen van gevoelige informatie naar onderwereldspelers, zoals MEOS-informatie, documenten of andere geheime gegevens, is verboden.
-- Misbruik van Dienstvoertuigen: Het is niet toegestaan om tijdens diensturen auto's te kopen of te testen.
-- Aanzetten tot Corruptie: Het aanzetten van hulpdiensten tot corruptie is ten strengste verboden.
- - Let op: Er zijn meer situaties die onder corruptie kunnen vallen. Als het doel van jouw acties is om vrienden in de onderwereld te helpen door misbruik te maken van je overheidspositie, wordt dit gezien als corruptie en kan dit leiden tot ontslag op staande voet en verdere sancties.
+   *Hierbij zal er gekeken worden vanuit superadmin+ wat de ernst er van is en daarop straffen gaan uitdelen individueel of de gehele organisatie.
 
+### Artikel 18 - Jobhoppen
 
-## **Hoofdstuk 14 – Regels voor Luchtverkeer**
+1. (Ex-)leden van een criminele organisatie dienen minimaal 72 uur te wachten nadat ze ontslag hebben genomen/ontslagen en/of samenwerken met een andere criminele organisatie voordat zij aangenomen mogen worden bij een overheidsbaan of een andere criminele organisatie.
+2. (Ex-)medewerkers van een overheidsbaan dienen minimaal 72 uur te wachten nadat ze ontslag hebben genomen/ontslagen en/of samenwerken met een andere criminele organisatie voordat zij aangenomen mogen worden bij een andere overheidsbaan of een criminele organisatie.
+3. Het is voor de leidinggevenden van overheidsbanen en criminele organisaties verplicht om een document bij te houden met informatie omtrent de in- en uitdiensttreding van hun medewerkers ten behoeve van de handhaving van dit artikel.
 
-### Artikel 14.1 - Vliegen en Landen (Straf Categorie 4)
-Voorwaarden voor Vliegen:
-Het is verplicht om een geldig vliegbrevet te hebben om een luchtvaartuig te besturen binnen de stad.
+   *Bij overtreding zal gestraft worden volgens de 1e categorie en zal de desbetreffende persoon worden ontslagen en deze persoon mag dit beroep 3 kalenderdagen lang niet uitvoeren.
 
-Veilig Landen:
-- Zorg ervoor dat je alleen landt op locaties die in de echte wereld ook realistisch zouden zijn. Hierbij dien je rekening te houden met de ruimte, eigen veiligheid en de veiligheid van het toestel. De landingsplek moet voldoen aan de volgende criteria:
-- Geen Drukke Wegen: Landen op drukke wegen is ten strengste verboden.
-- Geen Onverharde Ondergrond: Het is niet toegestaan om op onverharde grond te landen.
-- Vlakke Ondergrond: De landingsplek moet vlak zijn; heuvels of hellingen die onrealistisch zijn om op te landen, zijn niet toegestaan.
-- Vrij van Obstakels: De landingslocatie moet vrij zijn van obstakels binnen een straal van 75 meter, zoals hoogspanningslijnen, daken en lantaarnpalen. Dit geldt ook op gangterreinen.
-- Militaire Gebieden: Het is verboden om te landen op het vliegdekschip of de militaire basis; je moet deze gebieden vermijden.
-- Onbemande Voertuigen: Als je een onbemand voertuig achterlaat op een ongeschikte locatie, kan de politie het voertuig in beslag nemen. Dit moet worden goedgekeurd door een Hovj+ of een Senior vlieginstructeur.
+### Artikel 19 - Stemherkenning
 
-### Artikel 14.2 - Vlieghoogte (Straf Categorie 4)
-Realistische Vlieghoogte: Tijdens de vlucht moet je op een realistische en veilige hoogte blijven. Dit betekent minimaal 50 meter boven gebouwen of obstakels.
+1. Het is toegestaan om een speler te herkennen aan zijn/haar stem, tenzij je hem/haar totaal niet kent. Indien hierom gevraagd word, dien je dit aan te kunnen tonen.
+2. Indien de speler duidelijk moeite doet om zijn stem te vervormen, dan is het niet toegestaan om een speler aan zijn/haar stem te herkennen.
+3. Het is toegestaan om gebruik te maken van externe software om je stem te vervormen gedurende het uitvoeren van criminele activiteiten, echter dient dit normaal te blijven.
+4. Het overtreden van de feiten beschreven in lid 1,2 & 3 zullen worden gestraft met een straf van de eerste categorie.
 
-### Artikel 14.3 - Misbruik van Vliegtoestellen (Straf Categorie 6)
-Gebruik als Wapen: Het is onder geen enkele omstandigheid toegestaan om je vliegtoestel opzettelijk tegen iets aan te laten botsen of het te gebruiken als een wapen.
- - Let op: De regels voor vliegtoestellen op het Duistere Eiland, zoals vermeld in Artikel 12.4, zijn ook hier van toepassing. De landingslocatie moet vrij zijn van obstakels binnen een straal van 50 meter, en mag geen weg zijn (exclusief helikopters). Er mag geen ander vliegtuig of helikopter binnen een straal van 100 meter in de buurt zijn bij het landen. Bij parachutespringen moet dit boven zee gebeuren.
+### Artikel 20 - Omgaan met F6
 
+1. Het direct plaatsen van een geboeide persoon in een voertuig via F6 zonder uitgevoerde roleplay-handelingen is verboden. Spelers dienen de volgende stappen te volgen voor een realistische interactie:
+    * De deuren van het voertuig openen.
+    * De geboeide persoon begeleiden naar de deuropening.
+    * Verbaal (op normale of luide toon) of via een actiecommando (/me) aangeven dat de persoon in het voertuig wordt getrokken.
 
-# **Aanvullende Regels voor Streamers en Content Creators**
+2. Het uit een voertuig trekken van een persoon dient gepaard te gaan met de volgende realistische roleplay-handelingen:
+    * Het inslaan van de ruiten met daarbij de juiste attributen zoals een wapen(indien van toepassing).
+    * Het openen van de deur.
+    * Het losmaken van de gordel (indien van toepassing).
+    * Het naar buiten trekken van de persoon.
+   Elke directe interactie via F6 zonder bovengenoemde handelingen wordt beschouwd als F6-Abuse.
 
+3. Het niet naleven van de richtlijnen zoals beschreven in lid 1 & 2 wordt beschouwd als F6-Abuse en zal worden bestraft met een straf van de 5e categorie (een speler met een leidinggevende functie zal zwaarder bestraft worden). Spelers worden aangemoedigd om bewijsmateriaal (zoals clips) te bewaren voor het geval van geschillen of onterechte sancties.
 
-## Streamers en Content Creators
-Streamen in SowtuCity Roleplay: Het is toegestaan om te streamen binnen SowtuCity Roleplay, ook zonder een officiële Content Creator-rol.
+### Artikel 21 - Loodsen
 
-Regels voor Streamers:
-- Zorg ervoor dat de servernaam wordt vermeld in de beschrijving en dat een Discord-link wordt toegevoegd.
-- Streamers worden geacht een voorbeeldfunctie te vervullen voor hun kijkers.
-- Stuur je ID samen met de streamlink naar #live-vermelding zodat de staff dingen kan bekijken als er iets gebeurt.
-- Het is verboden om locaties van onderwereldactiviteiten te tonen tijdens het streamen, behalve voor de pluk op het eiland.
-- Onderwereld startlocaties mogen niet gestreamd worden.
-- Streamers krijgen geen voorrang bij zaken die in tickets moeten worden behandeld, zoals refunds.
-- Strafmaatregelen voor Content Creators:
-- Eerste waarschuwing: Geen consequenties.
-- Tweede waarschuwing: Gesprek met de Content Coördinator(en).
-- Derde waarschuwing: 1 dag extra verbanning.
-- Vierde waarschuwing: 2 dagen extra verbanning.
-- Vijfde waarschuwing: Gesprek met de Content Coördinator(en) over mogelijke afname van de Content Creator-rol binnen SowtuCity.
+1. Het misleiden of bedriegen met betrekking tot loodsen is verboden.
+2. De verhuur van sleutels voor loodsen is toegestaan.
+3. Het verhandelen van aandelen in loodsen is toegestaan.
+4. Alle overeenkomsten met betrekking tot loodsen moeten schriftelijk worden vastgelegd en gedocumenteerd in de stad SowtuCity met het commando /docu, en dienen te worden ondertekend door alle betrokken partijen.
+5. In geval van onduidelijkheid over de bepalingen van lid 2 of 3, zal het oordeel van een staflid leidend zijn, en dit staflid zal beslissen over de verdeling van de loods. De partij die beweert benadeeld te zijn, dient bewijsmateriaal te overleggen en draagt de verantwoordelijkheid voor de bewijslast.
 
+*Bij overtreding zal er gestraft worden volgens de 3e categorie. Indien de overtreding over bedragen boven de 2 miljoen gaat, zal er gestraft worden volgens de 5de categorie.
 
-## Overige Algemene Regels binnen SowtuCity Roleplay
-Gebruik van Namen en Bodycams
-- Namen van Staffleden: Het is verboden om de naam van een SowtuCity Stafflid te gebruiken binnen SowtuCity Roleplay of om beledigende namen te gebruiken om iemand zwart te maken.
-- Bodycams: Het gebruik van bodycams is toegestaan voor informatiedoeleinden.
- - Overheidsdiensten zijn uitgerust met bodycams die gebruikt kunnen worden als bewijs.
- - Medewerkers van alle overheidsdiensten moeten bodycams zichtbaar dragen om bewijs te kunnen leveren.
- - Burgers kunnen video's en/of foto's maken met hun telefoon als bewijs.
+## Narcopolis
 
+Onderstaande regels tellen alleen op Narcopolis
 
-## Gebruik van Discord
-Externe Discords: Het is verboden om externe Discord-servers te gebruiken voor roleplay-gerelateerde zaken. Als je met meerdere personen in de stad bent, is streamen niet toegestaan, en tijdens scenario's moet je altijd gedempt en onhoorbaar zijn in Discord. Het overtreden van deze regels wordt beschouwd als metagaming (Artikel 2.3).
+### Artikel N-1 - Schieten vanaf het vasteland en water
 
-## Remakes en Lookalikes van SowtuCity Roleplay
-Verbod op Remakes: Het is verboden om op welke manier dan ook een remake of lookalike van SowtuCity te maken of deel uit te maken van het staff/dev/management/bestuur/etc. team op een remake of lookalike van SowtuCity.
+1. Het is verboden om vanaf het vaste land op de patrouillerende schepen of heli's te schieten.
+2. Het is vanuit de koninklijke marechaussee verboden om op het vasteland te schieten.
+3. Er mag op binnenkomende vluchten en schepen geschoten worden, die niet afkomstig zijn van de koninklijke marechaussee.
 
-## Demonstraties
-Voorwaarden voor Demonstraties: Demonstraties in grotere groepen zijn toegestaan mits:
-- Schriftelijke toestemming is verkregen van de staff.
-- Eén persoon de leiding heeft tijdens de demonstratie.
-- Er een aangewezen plek is voor de demonstratie.
+### Artikel N-2 - Inladen van helikopers/vliegtuigen
 
-## Erotische Roleplay
-Verbod op Erotische Roleplay: Het uitvoeren van erotische roleplay is verboden. Een uitzondering wordt gemaakt voor dansen als danser in een club, mits dit binnen bepaalde grenzen blijft.
+1. Wanneer jij drugs wilt inladen in een vliegtuig of helikopter moet het vliegtuig of de helikopter binnen een straal van 50 meter van een helipad of landingsbaan staan.
+2. De sea sparrow en dodo mag wel volgeladen worden op open water.
 
-## Refunds
-Criteria voor Refunds: Om in aanmerking te komen voor een refund, moet je aan de volgende criteria voldoen:
-Bewijs: Clip met IDs, eigen perspectief, minimaal 120 seconden lang, met geluid.
-Inhoud: Bewijs van wat er in je auto zat of wat je op zak had. Bewijs dat je bent respawned of dat de betreffende spullen zijn afgenomen.
-Geen Regelbreuk: Er mag in jouw clip geen enkele APV-regel overtreden worden; anders wordt de refund afgekeurd.
- - Let op: Als je geld/items/voertuigen moet inleveren en deze niet meer in jouw bezit zijn, behoudt SowtuCity Roleplay het recht om deze spullen in een andere vorm van in-game afname te verwerken. Bijvoorbeeld, bij het scammen van €100.000 kan een stafflid een voertuig met een waarde van ongeveer €100.000 afnemen, zonder vergoeding.
+### Artikel N-3 - Samenwerking criminele organisaties
 
+1. Op Narcopolis is het voor een officiële groep niet toegestaan om samen te werken met een officiele of onofficiele groep of persoon.
+2. Uitzondering op lid 1 is er voor het kopen en verkopen van drugs. Dit mag wel gedaan worden op het eiland tussen verschillende groepen en personen.
 
-## Regels voor Voertuigen
-Toegestane Offroad Voertuigen: Alleen SUV's, Offroad voertuigen en Crossmotoren mogen offroad rijden binnen SowtuCity Roleplay. Wanneer je met een ander voertuig offroad gaat, valt dit onder Artikel 4.3 – GTA Drivestyle.
-Definitie van Offroad: Offroad wordt gedefinieerd als rijden op ondergrond zoals gras, zand of modder, waar geen zichtbaar pad of weg beschikbaar is.
+### Artikel N-4 - Campen van een niet actieve drugslocatie
 
+1. Het campen van een niet actieve drugslocatie is niet toegestaan op het eiland.
+2. Zodra je binnen 1000 meter van de pluk bent, kan dit onder campen vallen. Dit is ter beoordeling aan een stafflid.
+3. Het is niet toegestaan om constant op en neer te rijden naar een niet-actieve drugs locatie, om zo de camp regel te omzeilen. Als dit blijft gebeuren zullen er sancties komen. Dit is ter beoordeling aan een stafflid.
 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   *Bij overtredingen van eiland regels zal geresulteerd worden in de straf volgens de 1e categorie.
+
+## Tijdelijke bepalingen
+
+## Slotbepaling: Regels in het kort
+
+* Geen FailRP (Roleplay van zeer slechte kwaliteit, niet realistisch)
+* Geen VDM (Vehicle deathmatch, je wagen als wapen gebruiken).
+* Geen RDM (Random deathmatch, zonder goede reden mensen of dieren dood slaan en/of schieten).
+* Geen Cheats (Uiteraard is het niet toegestaan om cheats te gebruiken om jezelf een voordeel te geven en dit zal dan ook resulteren is een regelrechte ban)
+* Geen Exploits (Bugs / Misstanden misbruiken om hier zelf en/of voor andere profijt uit te halen).
+* Geen server/roleplay verstorend gedrag (Mic spammen, trollen etc).
+* Geen Metagaming (Gebruik maken van informatie wat jouw karakter niet kan weten en of andere discord kanalen dan de main discord).
+* Geen Cop-baiting (politie uitdagen/uitlokken).
+* Geen Spam (de chat vol spammen met nutteloze berichten)
+* Geen Combat Logging (Zomaar de server verlaten tijden bijvoorbeeld een ontvoering).
+* Niet overdreven schelden. (Geen Kanker en dergelijke, maakt niet uit of het bij je karakter hoort of niet. Hier wordt extra streng op gestraft.)
+* Houd het realistisch, ga niet met een Lamborghini door de woestijn racen met 200 km/h, of met auto's gebouwen in.
+* Ga zuinig om met je leven, dus niet zomaar zelfmoord plegen zonder reden.
+* Wanneer je bent gerespawned herinnert jouw karakter niets van wat er met je gebeurd is. Je weet nog wel dingen als je Baan en je vrienden maar je weet niet hoe je bent doodgegaan of door wie en dergelijke.
+* Het is verboden om OOC te praten/je karakter te breken.
+* Het is VERPLICHT een microfoon te hebben om te kunnen communiceren en Roleplayen.
+* Nederlands kunnen spreken is verplicht.
+* Je kunt alleen contant geld stelen bank geld kan niet gestolen worden.
+* Werk je bij de overheidsdiensten dan geldt er een zero tolerance beleid met bate tot drugs of criminele activiteiten. Wordt je ingame gepakt door een agent of ziet een stafflid dit, dan betekent dit einde baan. Het is daarnaast verboden om overheidsvoorwerpen te verkopen of weg te geven en dit is ban-waardig. Denk hierbij aan wapens, medkits, of in beslag genomen voertuigen en drugs, ook is het verboden om je beroep in je voordeel te gebruiken bij criminele activiteiten.
+* Gebruikt /report om mensen te rapporteren die niet naar de regels luisteren. (Maakt de RP veel beter).
+* Niet ADVERTEREN met je eigen server/discord in de server zowel als op de discord.
+* Gebruik Twitter voor in character berichten, dus juist voor Roleplay.
+* Het is verboden voertuigen van jobs te gebruiken voor criminaliteit denk hierbij aan bijvoorbeeld een vuilnis truck.
+* Buiten game communiceren is verboden, dit mag alleen door overheidsdiensten gebruikt worden in porto kanalen of bij een vrijstelling
+* Het is verboden op alt accounts geld of wat voor materieel dan ook uit te wisselen
+* Het is verboden met voertuigen gebouwen in te rijden.
+* Onder de AFK-kick proberen uit te komen is verboden.
+* Ben je als agent niet in game, mag je niet deelnemen aan een overval.
+* Wanneer je wordt vermoord door een rivaliserende gang mag je 24 uur niet deelnemen aan eventuele wraakacties of roleplay richting een andere gang.
+* Het is verboden een ambulancier of een medewerker van de ANWB te vermoorden of te ontvoeren bij een oproep of gebruik van hen.
+* Het is verboden om drugslocaties of wapens te verkopen via twitter, ook als je het hebt over "theeblaadjeslocaties", "broodmessen", "waterpistolen" en dergelijke.
