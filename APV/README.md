@@ -154,7 +154,7 @@ Het bestaande Wetboek van Strafrecht, specifiek voor SowtuCity, wordt ingetrokke
 2. Spelers mogen geen baanvoertuigen gebruiken voor illegale activiteiten, tenzij er goedkeuring is gegeven door een stafflid voor een specifiek roleplay-scenario.
 3. Het is niet toegestaan om met voertuigen gebouwen te betreden waarvoor deze niet bedoeld zijn.
 4. Het is verboden om voertuigen als wapens te gebruiken (VDM). Overtreding hiervan leidt tot een straf volgens de 2e categorie.
-5. Een pitmanoeuvre moet realistisch zijn en uitgevoerd worden bij snelheden rond of onder de 125 km/h.
+5. Een pitmanoeuvre moet realistisch zijn en uitgevoerd worden bij snelheden rond of onder de 100 km/h.
    * Overtredingen van lid 1 t/m 3 leiden tot een straf in de 1e categorie.
 
 ### Artikel 10 - Belediging
