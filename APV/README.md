@@ -67,27 +67,24 @@ Het bestaande Wetboek van Strafrecht, specifiek voor SowtuCity, wordt ingetrokke
     * /me wat doen jullie
     * /me waarom rdm je
     * /me slechte roleplay
-4. Het is verboden om de Safe Zone te gebruiken om aan illegale activiteiten of roleplay te ontkomen.
-5. Het is niet toegestaan een individu schade toe te brengen, te ontvoeren, te ontsnappen, te overvallen, aan te rijden of te vermoorden in een Safe Zone, tenzij er daadwerkelijke (aantoonbare) roleplay aan verbonden is.
-    * Overtredingen van lid 1 t/m 5 resulteren in een straf volgens categorie 1.
 
-6. Wanneer een karakter overlijdt, wordt verwacht dat hij/zij de laatste gebeurtenissen vergeet. Tevens mag het karakter niet terugkeren naar de plaats waar het overlijden heeft plaatsgevonden, aangegeven met een rode cirkel op de kaart, voor een periode van 30 minuten na het overlijden. Daarnaast mag het karakter zich niet opnieuw mengen in hetzelfde scenario totdat deze afgelopen is (New Life Rule).
+4. Wanneer een karakter overlijdt, wordt verwacht dat hij/zij de laatste gebeurtenissen vergeet. Tevens mag het karakter niet terugkeren naar de plaats waar het overlijden heeft plaatsgevonden, aangegeven met een rode cirkel op de kaart, voor een periode van 30 minuten na het overlijden. Daarnaast mag het karakter zich niet opnieuw mengen in hetzelfde scenario totdat deze afgelopen is (New Life Rule).
     * Overtreding van lid 6 zal leiden tot een straf volgens categorie 4.
 
-7. Het zonder reden mishandelen, vermoorden (RDM), provoceren of anderszins mensen lastigvallen zonder de intentie tot verdere roleplay is niet toegestaan. Dit geldt ook voor dieren.
+5. Het zonder reden mishandelen, vermoorden (RDM), provoceren of anderszins mensen lastigvallen zonder de intentie tot verdere roleplay is niet toegestaan. Dit geldt ook voor dieren.
 
-8. Personen die geen waarde hechten aan het leven van hun karakter (No Value of Life) zullen bestraft worden. Hieronder valt ook het wegrijden met een voertuig wanneer de snelheid lager is dan 20 km/h.
+6. Personen die geen waarde hechten aan het leven van hun karakter (No Value of Life) zullen bestraft worden. Hieronder valt ook het wegrijden met een voertuig wanneer de snelheid lager is dan 20 km/h.
    * Overtredingen van lid 7 en 8 resulteren in een straf volgens categorie 2.
 
-9. Het uitvoeren van erotische roleplay (ERP) is verboden. Overtreding zal resulteren in een straf volgens categorie 7.
+7. Het uitvoeren van erotische roleplay (ERP) is verboden. Overtreding zal resulteren in een straf volgens categorie 7.
 
-10. Zelfmoordscenario's zijn niet toegestaan, tenzij er goedkeuring is verkregen van de staff. Bij het ontbreken van goedkeuring zal dit leiden tot een straf van categorie 8 of een gevangenisstraf van 200 maanden.
+8. Zelfmoordscenario's zijn niet toegestaan, tenzij er goedkeuring is verkregen van de staff. Bij het ontbreken van goedkeuring zal dit leiden tot een straf van categorie 8 of een gevangenisstraf van 200 maanden.
     * Enkele voorbeelden van lid 1 en lid 2 zijn:
     * Tijdens een achtervolging het voertuig in de garage zetten om verlies te voorkomen;
     * Een agent ontvoeren om een signalering te verwijderen of om informatie in het politiesysteem (MEOS) te verkrijgen;
     * Overheidsmedewerkers dwingen om bewusteloze personen te fouilleren en items (zoals wapens) aan jou of iemand anders af te geven.
 
-11. Het "counteren" tijdens een politieachtervolging, oftewel bemoeien met een achtervolging van iemand anders waarbij de politie betrokken is, is niet toegestaan.
+9. Het "counteren" tijdens een politieachtervolging, oftewel bemoeien met een achtervolging van iemand anders waarbij de politie betrokken is, is niet toegestaan.
     * Ter verduidelijking: Wanneer de politie tussen een bestaand conflict komt, is deze regel niet van toepassing.
     * Overtreding van lid 11 resulteert in een straf volgens categorie 2.
 
